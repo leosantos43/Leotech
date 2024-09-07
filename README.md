@@ -40,3 +40,4 @@ Se você quiser ajudar a melhorar a Leotech, fique à vontade para fazer um fork
 **Lembre-se:** A Leotech é um projeto em constante evolução. Ajude-nos a construir uma ferramenta cada vez mais útil para todos! 
 
 **Vamos juntos resolver os problemas dos computadores do mundo! **
+** Verifique meu site pelo Vercel: https://leotech.vercel.app/**
